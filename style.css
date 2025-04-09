@@ -1,0 +1,38 @@
+body {
+    display: grid;
+    font-family: sans-serif;
+    background-color: #dbdbdb;
+    color: #000000;
+    padding: 1rem;
+    justify-content: center;
+    }
+    nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    background-color: #ee1717fb;
+    padding: 1rem;
+    }
+
+    
+    nav a {
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        }
+
+        img {
+            width: 150px;
+            height: 200px;
+        }
+
+        button {
+            background-color: rgb(163, 0, 0);
+            border-radius: 15px;
+            width: 150px;
+        }
+
+
+        p {
+            max-width: 700px;
+        }
